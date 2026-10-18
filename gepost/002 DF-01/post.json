@@ -1,0 +1,21 @@
+{
+  "nummer": 2,
+  "id": "DF-01",
+  "titel": "Dirty Martini",
+  "serie": "Kitchen & Bar",
+  "achtergrond": "olijf-tint",
+  "lijst": "eik",
+  "gemaakt": "2026-10-18",
+  "gepost": {
+    "urls": {
+      "1-feed.jpg": "https://raw.githubusercontent.com/silprins-a11y/sundayeasel-media/main/posts/002-DF-01/1-feed.jpg",
+      "2-feed.jpg": "https://raw.githubusercontent.com/silprins-a11y/sundayeasel-media/main/posts/002-DF-01/2-feed.jpg",
+      "story.jpg": "https://raw.githubusercontent.com/silprins-a11y/sundayeasel-media/main/posts/002-DF-01/story.jpg"
+    },
+    "ig_feed": "17885943828690007",
+    "ig_story": "18096931202410661",
+    "fb_feed": "1416589661532972_122096071983519816",
+    "fb_story": "1146935124966179",
+    "tijd": "2026-10-18T20:41:54"
+  }
+}

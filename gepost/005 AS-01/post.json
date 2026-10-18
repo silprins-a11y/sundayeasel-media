@@ -1,0 +1,21 @@
+{
+  "nummer": 5,
+  "id": "AS-01",
+  "titel": "Hot Chocolate Hour",
+  "serie": "Ski & Alpine",
+  "achtergrond": "creme",
+  "lijst": "eik",
+  "gemaakt": "2026-10-18",
+  "gepost": {
+    "urls": {
+      "1-feed.jpg": "https://raw.githubusercontent.com/silprins-a11y/sundayeasel-media/main/posts/005-AS-01/1-feed.jpg",
+      "2-feed.jpg": "https://raw.githubusercontent.com/silprins-a11y/sundayeasel-media/main/posts/005-AS-01/2-feed.jpg",
+      "story.jpg": "https://raw.githubusercontent.com/silprins-a11y/sundayeasel-media/main/posts/005-AS-01/story.jpg"
+    },
+    "ig_feed": "18119577343961406",
+    "ig_story": "18137503423652875",
+    "fb_feed": "1416589661532972_122096075445519816",
+    "fb_story": "2166231330631825",
+    "tijd": "2026-10-18T20:47:22"
+  }
+}

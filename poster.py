@@ -173,6 +173,11 @@ def main():
     if a.droog:
         for n in BEELDEN:
             print(f"  {n}: {'ok' if (m / n).exists() else 'ONTBREEKT'}")
+        if os.environ.get("PAGE_TOKEN"):   # secrets testen zonder te posten: alleen lezen
+            tok = os.environ["PAGE_TOKEN"]
+            ig = get(os.environ["IG_USER_ID"], fields="username", access_token=tok)["username"]
+            pg = get(os.environ["PAGE_ID"], fields="name", access_token=tok)["name"]
+            print(f"  token ok: Instagram @{ig}, Facebook-pagina {pg}")
         print("  droge run: niets geplaatst")
         return
     try:

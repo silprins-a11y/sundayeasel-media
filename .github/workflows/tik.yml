@@ -1,0 +1,21 @@
+name: tik
+
+# Wekker van buiten GitHub. GitHub start geplande runs op deze repo niet betrouwbaar (19-10: de hele dag geen enkele),
+# een push start altijd een run. Een Claude-routine (claude.ai/code/routines, "Sunday Easel wekker") pusht een lege
+# commit naar claude/tik op 10:00, 13:00 en 20:00; deze workflow start dan post.yml op main in modus rooster.
+# Rooster beslist zelf of er een vak open is en post maximaal één keer per vak, dus dubbel tikken kan geen kwaad.
+on:
+  push:
+    branches: ["claude/tik"]
+
+permissions:
+  actions: write
+
+jobs:
+  tik:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run post.yml --repo "$GITHUB_REPOSITORY" --ref main -f modus=rooster

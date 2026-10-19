@@ -2,19 +2,20 @@ name: post
 
 # Drie posts per dag om 10:00, 13:00 en 20:00 Nederlandse tijd. GitHub kent alleen UTC, dus de run start op alle
 # UTC-uren die in zomer- of wintertijd op die vakken vallen; poster.py --rooster beslist zelf of er een vak open is
-# en post maximaal één keer per vak per dag. Twee starttijden per uur voor als GitHub een geplande run overslaat.
-# GitHub start geplande runs namens wie de cron het laatst wijzigde: commit dit bestand alleen als silprins-a11y
-# (git user.email 241277139+silprins-a11y@users.noreply.github.com), anders gaat de schedule stil niet af.
+# en post maximaal één keer per vak per dag. GitHub slaat geplande runs op nieuwe of rustige repo's vaak over (19-10:
+# de hele dag geen enkele), en het vaakst rond het hele uur. Daarom elke tien minuten op een rustige minuut, door het
+# hele venster van 120 minuten na elk vak; buiten een vak stopt de run na een paar seconden.
+# Een externe trigger mag workflow_dispatch met modus=rooster aanroepen: die volgt dezelfde vakregels, dus nooit dubbel.
+# Commit dit bestand alleen als silprins-a11y (git user.email 241277139+silprins-a11y@users.noreply.github.com).
 on:
   schedule:
-    - cron: "2 8,9,11,12,18,19 * * *"
-    - cron: "32 8,9,11,12,18,19 * * *"
+    - cron: "7,17,27,37,47,57 8-13,18-20 * * *"
   workflow_dispatch:
     inputs:
       modus:
-        description: "droog = alleen tonen, nu = volgende post direct plaatsen"
+        description: "droog = alleen tonen, nu = volgende post direct plaatsen, rooster = alleen als er een vak open is"
         type: choice
-        options: [droog, nu]
+        options: [droog, nu, rooster]
         default: droog
 
 concurrency:

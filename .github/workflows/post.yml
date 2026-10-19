@@ -3,10 +3,12 @@ name: post
 # Drie posts per dag om 10:00, 13:00 en 20:00 Nederlandse tijd. GitHub kent alleen UTC, dus de run start op alle
 # UTC-uren die in zomer- of wintertijd op die vakken vallen; poster.py --rooster beslist zelf of er een vak open is
 # en post maximaal één keer per vak per dag. Twee starttijden per uur voor als GitHub een geplande run overslaat.
+# GitHub start geplande runs namens wie de cron het laatst wijzigde: commit dit bestand alleen als silprins-a11y
+# (git user.email 241277139+silprins-a11y@users.noreply.github.com), anders gaat de schedule stil niet af.
 on:
   schedule:
-    - cron: "3 8,9,11,12,18,19 * * *"
-    - cron: "33 8,9,11,12,18,19 * * *"
+    - cron: "2 8,9,11,12,18,19 * * *"
+    - cron: "32 8,9,11,12,18,19 * * *"
   workflow_dispatch:
     inputs:
       modus:

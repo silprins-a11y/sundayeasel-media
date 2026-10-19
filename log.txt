@@ -7,3 +7,6 @@
 2026-10-18 20:51 OK [hand] 007 IM-05 Paw Prints Only
 2026-10-18 20:52 OK [hand] 008 AM-02 Down the Steps
 2026-10-18 20:54 OK [hand] 009 DF-02 Sunday Bubbles
+2026-10-19 08:31 BANNER banner-3-rechts.jpg 17982358560018822
+2026-10-19 08:31 BANNER banner-2-midden.jpg 17958431736253622
+2026-10-19 08:32 BANNER banner-1-links.jpg 18136460542757224

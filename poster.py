@@ -183,7 +183,8 @@ def plaats_reel(m):
         if stap == "ig_story":
             return ig_video(media_type="STORIES")
         if stap == "fb_reel":
-            return fb_video("video_reels", video_state="PUBLISHED", description=fb_tekst(cap))
+            tekst = fb_tekst(cap).replace("Shop the print:", "Shop the prints:")   # een reel toont de hele lijn
+            return fb_video("video_reels", video_state="PUBLISHED", description=tekst)
         return fb_video("video_stories")
 
     return stappen(m, ("ig_reel", "ig_story", "fb_reel", "fb_story"), doe)

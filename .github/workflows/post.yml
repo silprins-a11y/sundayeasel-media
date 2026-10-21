@@ -28,7 +28,7 @@ permissions:
 jobs:
   post:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 45   # post + reel: Instagram verwerkt de video soms minuten
     steps:
       - uses: actions/checkout@v4
 

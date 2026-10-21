@@ -1,0 +1,18 @@
+{
+  "type": "reel",
+  "nummer": 84,
+  "id": "lijn-SP",
+  "titel": "Fancy Plates",
+  "serie": "Kitchen & Bar",
+  "achtergrond": "olijf-tint",
+  "prints": [
+    "SP-01",
+    "SP-02",
+    "SP-03",
+    "SP-04",
+    "SP-05"
+  ],
+  "release": "reels",
+  "video": "lijn-SP-reel-olijf-tint.mp4",
+  "gemaakt": "2026-10-21"
+}

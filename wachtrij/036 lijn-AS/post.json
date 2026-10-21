@@ -1,0 +1,18 @@
+{
+  "type": "reel",
+  "nummer": 36,
+  "id": "lijn-AS",
+  "titel": "Après-Ski",
+  "serie": "Ski & Alpine",
+  "achtergrond": "olijf-tint",
+  "prints": [
+    "AS-01",
+    "AS-02",
+    "AS-03",
+    "AS-04",
+    "AS-05"
+  ],
+  "release": "reels",
+  "video": "lijn-AS-reel-olijf-tint.mp4",
+  "gemaakt": "2026-10-21"
+}

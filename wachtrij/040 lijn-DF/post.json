@@ -1,0 +1,18 @@
+{
+  "type": "reel",
+  "nummer": 40,
+  "id": "lijn-DF",
+  "titel": "Birds at the Table",
+  "serie": "Kitchen & Bar",
+  "achtergrond": "olijf-tint",
+  "prints": [
+    "DF-01",
+    "DF-02",
+    "DF-03",
+    "DF-04",
+    "DF-05"
+  ],
+  "release": "reels",
+  "video": "lijn-DF-reel-olijf-tint.mp4",
+  "gemaakt": "2026-10-21"
+}

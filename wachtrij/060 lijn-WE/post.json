@@ -1,0 +1,18 @@
+{
+  "type": "reel",
+  "nummer": 60,
+  "id": "lijn-WE",
+  "titel": "The Wild West",
+  "serie": "Western",
+  "achtergrond": "olijf-tint",
+  "prints": [
+    "WE-01",
+    "WE-02",
+    "WE-03",
+    "WE-04",
+    "WE-05"
+  ],
+  "release": "reels",
+  "video": "lijn-WE-reel-olijf-tint.mp4",
+  "gemaakt": "2026-10-21"
+}

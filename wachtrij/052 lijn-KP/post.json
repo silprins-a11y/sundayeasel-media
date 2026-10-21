@@ -1,0 +1,18 @@
+{
+  "type": "reel",
+  "nummer": 52,
+  "id": "lijn-KP",
+  "titel": "Renaissance Bathroom",
+  "serie": "Bathroom Art",
+  "achtergrond": "olijf-tint",
+  "prints": [
+    "KP-01",
+    "KP-02",
+    "KP-03",
+    "KP-04",
+    "KP-05"
+  ],
+  "release": "reels",
+  "video": "lijn-KP-reel-olijf-tint.mp4",
+  "gemaakt": "2026-10-21"
+}

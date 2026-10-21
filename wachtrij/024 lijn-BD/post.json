@@ -1,0 +1,18 @@
+{
+  "type": "reel",
+  "nummer": 24,
+  "id": "lijn-BD",
+  "titel": "Bathroom Geese",
+  "serie": "Bathroom Art",
+  "achtergrond": "olijf-tint",
+  "prints": [
+    "BD-01",
+    "BD-02",
+    "BD-03",
+    "BD-04",
+    "BD-05"
+  ],
+  "release": "reels",
+  "video": "lijn-BD-reel-olijf-tint.mp4",
+  "gemaakt": "2026-10-21"
+}

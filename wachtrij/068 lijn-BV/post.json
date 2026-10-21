@@ -1,0 +1,18 @@
+{
+  "type": "reel",
+  "nummer": 68,
+  "id": "lijn-BV",
+  "titel": "Wildflower Fields",
+  "serie": "Flowers",
+  "achtergrond": "olijf-tint",
+  "prints": [
+    "BV-01",
+    "BV-02",
+    "BV-03",
+    "BV-04",
+    "BV-05"
+  ],
+  "release": "reels",
+  "video": "lijn-BV-reel-olijf-tint.mp4",
+  "gemaakt": "2026-10-21"
+}

@@ -1,0 +1,18 @@
+{
+  "type": "reel",
+  "nummer": 92,
+  "id": "lijn-JD",
+  "titel": "Japandi Calm",
+  "serie": "Japandi",
+  "achtergrond": "olijf-tint",
+  "prints": [
+    "JD-01",
+    "JD-02",
+    "JD-03",
+    "JD-04",
+    "JD-05"
+  ],
+  "release": "reels",
+  "video": "lijn-JD-reel-olijf-tint.mp4",
+  "gemaakt": "2026-10-21"
+}

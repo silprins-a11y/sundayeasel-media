@@ -1,0 +1,18 @@
+{
+  "type": "reel",
+  "nummer": 20,
+  "id": "lijn-AM",
+  "titel": "The Amalfi Coast",
+  "serie": "Travel Art",
+  "achtergrond": "olijf-tint",
+  "prints": [
+    "AM-01",
+    "AM-02",
+    "AM-03",
+    "AM-04",
+    "AM-05"
+  ],
+  "release": "reels",
+  "video": "lijn-AM-reel-olijf-tint.mp4",
+  "gemaakt": "2026-10-21"
+}

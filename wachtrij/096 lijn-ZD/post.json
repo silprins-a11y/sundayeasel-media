@@ -1,0 +1,18 @@
+{
+  "type": "reel",
+  "nummer": 96,
+  "id": "lijn-ZD",
+  "titel": "Through the Waves",
+  "serie": "Japanese Animals",
+  "achtergrond": "olijf-tint",
+  "prints": [
+    "ZD-01",
+    "ZD-02",
+    "ZD-03",
+    "ZD-04",
+    "ZD-05"
+  ],
+  "release": "reels",
+  "video": "lijn-ZD-reel-olijf-tint.mp4",
+  "gemaakt": "2026-10-21"
+}

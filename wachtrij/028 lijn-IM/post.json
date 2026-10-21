@@ -1,0 +1,18 @@
+{
+  "type": "reel",
+  "nummer": 28,
+  "id": "lijn-IM",
+  "titel": "Impressionist Cats",
+  "serie": "Impressionist Cats",
+  "achtergrond": "olijf-tint",
+  "prints": [
+    "IM-01",
+    "IM-02",
+    "IM-03",
+    "IM-04",
+    "IM-05"
+  ],
+  "release": "reels",
+  "video": "lijn-IM-reel-olijf-tint.mp4",
+  "gemaakt": "2026-10-21"
+}

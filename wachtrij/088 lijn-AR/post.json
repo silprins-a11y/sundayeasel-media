@@ -1,0 +1,18 @@
+{
+  "type": "reel",
+  "nummer": 88,
+  "id": "lijn-AR",
+  "titel": "Under the Pergola",
+  "serie": "Travel Art",
+  "achtergrond": "olijf-tint",
+  "prints": [
+    "AR-01",
+    "AR-02",
+    "AR-03",
+    "AR-04",
+    "AR-05"
+  ],
+  "release": "reels",
+  "video": "lijn-AR-reel-olijf-tint.mp4",
+  "gemaakt": "2026-10-21"
+}

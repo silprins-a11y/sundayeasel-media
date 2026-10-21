@@ -1,0 +1,18 @@
+{
+  "type": "reel",
+  "nummer": 76,
+  "id": "lijn-HS",
+  "titel": "Quiet Japan",
+  "serie": "Japanese Landscapes",
+  "achtergrond": "olijf-tint",
+  "prints": [
+    "HS-01",
+    "HS-02",
+    "HS-03",
+    "HS-04",
+    "HS-05"
+  ],
+  "release": "reels",
+  "video": "lijn-HS-reel-olijf-tint.mp4",
+  "gemaakt": "2026-10-21"
+}

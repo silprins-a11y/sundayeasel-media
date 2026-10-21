@@ -1,0 +1,18 @@
+{
+  "type": "reel",
+  "nummer": 48,
+  "id": "lijn-PD",
+  "titel": "Curled Up",
+  "serie": "Japanese Animals",
+  "achtergrond": "olijf-tint",
+  "prints": [
+    "PD-01",
+    "PD-02",
+    "PD-03",
+    "PD-04",
+    "PD-05"
+  ],
+  "release": "reels",
+  "video": "lijn-PD-reel-olijf-tint.mp4",
+  "gemaakt": "2026-10-21"
+}

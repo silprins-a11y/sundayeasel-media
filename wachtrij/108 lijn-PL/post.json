@@ -1,0 +1,18 @@
+{
+  "type": "reel",
+  "nummer": 108,
+  "id": "lijn-PL",
+  "titel": "Japanese Hills",
+  "serie": "Japanese Landscapes",
+  "achtergrond": "olijf-tint",
+  "prints": [
+    "PL-01",
+    "PL-02",
+    "PL-03",
+    "PL-04",
+    "PL-05"
+  ],
+  "release": "reels",
+  "video": "lijn-PL-reel-olijf-tint.mp4",
+  "gemaakt": "2026-10-21"
+}

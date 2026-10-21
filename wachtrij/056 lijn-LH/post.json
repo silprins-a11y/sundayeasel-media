@@ -1,0 +1,18 @@
+{
+  "type": "reel",
+  "nummer": 56,
+  "id": "lijn-LH",
+  "titel": "Lost in a Book",
+  "serie": "Books & Reading",
+  "achtergrond": "olijf-tint",
+  "prints": [
+    "LH-01",
+    "LH-02",
+    "LH-03",
+    "LH-04",
+    "LH-05"
+  ],
+  "release": "reels",
+  "video": "lijn-LH-reel-olijf-tint.mp4",
+  "gemaakt": "2026-10-21"
+}

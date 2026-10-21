@@ -1,0 +1,17 @@
+{
+  "type": "reel",
+  "nummer": 112,
+  "id": "lijn-MS",
+  "titel": "Mediterranean Table",
+  "serie": "Travel Art",
+  "achtergrond": "olijf-tint",
+  "prints": [
+    "MS-01",
+    "MS-02",
+    "MS-03",
+    "MS-04"
+  ],
+  "release": "reels",
+  "video": "lijn-MS-reel-olijf-tint.mp4",
+  "gemaakt": "2026-10-21"
+}

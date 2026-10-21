@@ -1,0 +1,18 @@
+{
+  "type": "reel",
+  "nummer": 100,
+  "id": "lijn-WN",
+  "titel": "Window Life",
+  "serie": "Windows & Views",
+  "achtergrond": "olijf-tint",
+  "prints": [
+    "WN-06",
+    "WN-07",
+    "WN-08",
+    "WN-09",
+    "WN-10"
+  ],
+  "release": "reels",
+  "video": "lijn-WN-reel-olijf-tint.mp4",
+  "gemaakt": "2026-10-21"
+}

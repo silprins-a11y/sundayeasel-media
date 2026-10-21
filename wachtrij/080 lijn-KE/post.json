@@ -1,0 +1,18 @@
+{
+  "type": "reel",
+  "nummer": 80,
+  "id": "lijn-KE",
+  "titel": "Caught Snacking",
+  "serie": "Kitchen & Bar",
+  "achtergrond": "olijf-tint",
+  "prints": [
+    "KE-01",
+    "KE-02",
+    "KE-03",
+    "KE-04",
+    "KE-05"
+  ],
+  "release": "reels",
+  "video": "lijn-KE-reel-olijf-tint.mp4",
+  "gemaakt": "2026-10-21"
+}

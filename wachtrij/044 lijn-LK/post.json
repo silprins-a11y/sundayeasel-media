@@ -1,0 +1,18 @@
+{
+  "type": "reel",
+  "nummer": 44,
+  "id": "lijn-LK",
+  "titel": "Lake Dogs",
+  "serie": "Lake Life",
+  "achtergrond": "olijf-tint",
+  "prints": [
+    "LK-01",
+    "LK-02",
+    "LK-03",
+    "LK-04",
+    "LK-05"
+  ],
+  "release": "reels",
+  "video": "lijn-LK-reel-olijf-tint.mp4",
+  "gemaakt": "2026-10-21"
+}

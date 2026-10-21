@@ -1,0 +1,18 @@
+{
+  "type": "reel",
+  "nummer": 72,
+  "id": "lijn-GR",
+  "titel": "The Regulars",
+  "serie": "Kitchen & Bar",
+  "achtergrond": "olijf-tint",
+  "prints": [
+    "GR-01",
+    "GR-02",
+    "GR-03",
+    "GR-04",
+    "GR-05"
+  ],
+  "release": "reels",
+  "video": "lijn-GR-reel-olijf-tint.mp4",
+  "gemaakt": "2026-10-21"
+}

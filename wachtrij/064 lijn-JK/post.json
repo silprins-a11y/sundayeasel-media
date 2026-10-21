@@ -1,0 +1,18 @@
+{
+  "type": "reel",
+  "nummer": 64,
+  "id": "lijn-JK",
+  "titel": "Frog Days",
+  "serie": "Japanese Animals",
+  "achtergrond": "olijf-tint",
+  "prints": [
+    "JK-01",
+    "JK-02",
+    "JK-03",
+    "JK-04",
+    "JK-05"
+  ],
+  "release": "reels",
+  "video": "lijn-JK-reel-olijf-tint.mp4",
+  "gemaakt": "2026-10-21"
+}

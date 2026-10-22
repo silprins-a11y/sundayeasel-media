@@ -22,3 +22,4 @@
 2026-10-22 10:14 OK [10:00] 019 PL-02 Blossom Hill
 2026-10-22 10:17 OK [10:00] 020 lijn-AM The Amalfi Coast
 2026-10-22 13:17 OK [13:00] 021 WN-07 Hammock Hours
+2026-10-22 20:11 OK [20:00] 022 WE-01 Boots Off

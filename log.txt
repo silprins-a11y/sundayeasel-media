@@ -19,3 +19,5 @@
 2026-10-21 10:14 OK [10:00] 016 DF-03 Poker Face
 2026-10-21 13:19 OK [13:00] 017 JK-02 Quiet Cup
 2026-10-21 20:13 OK [20:00] 018 BD-03 Breaking News
+2026-10-22 10:14 OK [10:00] 019 PL-02 Blossom Hill
+2026-10-22 10:17 OK [10:00] 020 lijn-AM The Amalfi Coast

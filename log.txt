@@ -25,3 +25,4 @@
 2026-10-22 20:11 OK [20:00] 022 WE-01 Boots Off
 2026-10-23 10:14 OK [10:00] 023 AM-05 Lemon Roof
 2026-10-23 10:17 OK [10:00] 024 lijn-BD Bathroom Geese
+2026-10-23 13:25 OK [13:00] 025 DF-04 Pasta Night

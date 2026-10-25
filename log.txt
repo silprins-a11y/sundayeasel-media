@@ -31,3 +31,5 @@
 2026-10-24 10:16 OK [10:00] 028 lijn-IM Impressionist Cats
 2026-10-24 13:14 OK [13:00] 029 AS-03 Fondue Weather
 2026-10-24 20:14 OK [20:00] 030 BV-01 Summer Meadow
+2026-10-25 10:13 OK [10:00] 031 IM-01 Peekaboo Haystack
+2026-10-25 10:16 OK [10:00] 032 lijn-MK Jazz Cats

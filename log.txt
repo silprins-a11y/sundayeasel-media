@@ -45,3 +45,4 @@
 2026-10-27 20:16 OK [20:00] 042 AR-01 Reserved Terrace
 2026-10-28 10:16 OK [10:00] 043 KE-01 Syrup Thief
 2026-10-28 10:19 OK [10:00] 044 lijn-LK Lake Dogs
+2026-10-28 13:28 OK [13:00] 045 JK-03 Blank Page Club

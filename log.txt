@@ -43,3 +43,5 @@
 2026-10-27 10:18 OK [10:00] 040 lijn-DF Birds at the Table
 2026-10-27 13:22 OK [13:00] 041 MK-02 Headphones On
 2026-10-27 20:16 OK [20:00] 042 AR-01 Reserved Terrace
+2026-10-28 10:16 OK [10:00] 043 KE-01 Syrup Thief
+2026-10-28 10:19 OK [10:00] 044 lijn-LK Lake Dogs

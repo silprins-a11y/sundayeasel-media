@@ -51,3 +51,5 @@
 2026-10-29 10:18 OK [10:00] 048 lijn-PD Curled Up
 2026-10-29 13:16 OK [13:00] 049 WN-06 Nap on the Sill
 2026-10-29 20:17 OK [20:00] 050 WE-02 Easy Rider
+2026-10-30 10:14 OK [10:00] 051 AR-02 Houses on Tiptoe
+2026-10-30 10:17 OK [10:00] 052 lijn-KP Renaissance Bathroom

@@ -61,3 +61,4 @@
 2026-10-31 20:14 OK [20:00] 058 BV-02 Cottage Border
 2026-11-01 10:13 OK [10:00] 059 JD-05 Rain on Water
 2026-11-01 10:16 OK [10:00] 060 lijn-WE The Wild West
+2026-11-01 20:14 OK [20:00] 061 MS-01 Slow Espresso

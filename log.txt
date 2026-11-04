@@ -71,3 +71,5 @@
 2026-11-03 13:21 OK [13:00] 068 lijn-BV Wildflower Fields
 2026-11-03 20:16 OK [20:00] 069 MK-03 Studio Session
 2026-11-04 10:14 OK [10:00] 070 MS-02 Long Lunch
+2026-11-04 13:19 OK [13:00] 071 KE-04 Who Ate the Slice
+2026-11-04 13:21 OK [13:00] 072 lijn-GR The Regulars

@@ -75,3 +75,5 @@
 2026-11-04 13:21 OK [13:00] 072 lijn-GR The Regulars
 2026-11-04 20:14 OK [20:00] 073 PD-05 Leaf Pile Hedgehogs
 2026-11-05 10:15 OK [10:00] 074 PL-03 Quiet Snowfall
+2026-11-05 13:17 OK [13:00] 075 WE-03 Desert Night
+2026-11-05 13:20 OK [13:00] 076 lijn-HS Quiet Japan

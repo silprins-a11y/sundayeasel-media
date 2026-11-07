@@ -83,3 +83,5 @@
 2026-11-06 13:17 OK [13:00] 080 lijn-KE Caught Snacking
 2026-11-06 20:13 OK [20:00] 081 KE-05 Collar Snack
 2026-11-07 10:13 OK [10:00] 082 JK-04 Lazy Ferry
+2026-11-07 13:14 OK [13:00] 083 BV-05 Bulb Season
+2026-11-07 13:16 OK [13:00] 084 lijn-SP Fancy Plates

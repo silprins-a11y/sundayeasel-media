@@ -99,3 +99,5 @@
 2026-11-10 13:20 OK [13:00] 096 lijn-ZD Through the Waves
 2026-11-10 20:16 OK [20:00] 097 WE-04 Rodeo Hour
 2026-11-11 10:13 OK [10:00] 098 PL-04 Slow River
+2026-11-11 13:18 OK [13:00] 099 RA-01 Rice Is Nice
+2026-11-11 13:20 FOUT [13:00] 100 lijn-WN: upload 400 naar https://rupload.facebook.com/ig-api-upload/v26.0/18137232112727435: b'{"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}'

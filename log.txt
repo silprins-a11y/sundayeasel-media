@@ -106,3 +106,5 @@
 2026-11-12 10:14 OK [10:00] 102 BV-04 Lavender Rows
 2026-11-12 13:17 OK [13:00] 103 WN-09 Bath Chapter
 2026-11-12 13:19 FOUT [13:00] 104 lijn-RA: upload 400 naar https://rupload.facebook.com/ig-api-upload/v26.0/18137502001727435: b'{"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}'
+2026-11-12 20:17 OK [20:00] 104 lijn-RA The Hungry Black Cat
+2026-11-12 20:19 OK [20:00] 105 MK-05 Lounge Act

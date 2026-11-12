@@ -103,3 +103,4 @@
 2026-11-11 13:20 FOUT [13:00] 100 lijn-WN: upload 400 naar https://rupload.facebook.com/ig-api-upload/v26.0/18137232112727435: b'{"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}'
 2026-11-11 20:15 OK [20:00] 100 lijn-WN Window Life
 2026-11-11 20:17 OK [20:00] 101 ZD-01 Deep Water Bear
+2026-11-12 10:14 OK [10:00] 102 BV-04 Lavender Rows

@@ -109,3 +109,5 @@
 2026-11-12 20:17 OK [20:00] 104 lijn-RA The Hungry Black Cat
 2026-11-12 20:19 OK [20:00] 105 MK-05 Lounge Act
 2026-11-13 10:14 OK [10:00] 106 AR-04 Blue Dome Hour
+2026-11-13 13:17 OK [13:00] 107 WE-05 Desert Bloom
+2026-11-13 13:20 OK [13:00] 108 lijn-PL Japanese Hills

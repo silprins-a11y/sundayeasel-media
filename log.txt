@@ -113,3 +113,5 @@
 2026-11-13 13:20 OK [13:00] 108 lijn-PL Japanese Hills
 2026-11-13 20:19 OK [20:00] 109 RA-04 Steamy Business
 2026-11-14 10:13 OK [10:00] 110 ZD-03 Standing Tall
+2026-11-14 13:17 OK [13:00] 111 IM-04 Gull Watching
+2026-11-14 13:20 OK [13:00] 112 lijn-MS Mediterranean Table
